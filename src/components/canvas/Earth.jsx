@@ -8,7 +8,7 @@ const Earth = () => {
     <primitive object={earth.scene} scale={3} position-y={0} rotation-y={0} />
   );
 };
-
+//test in earth comp
 const EarthCanvas = () => {
   return (
     <Canvas
